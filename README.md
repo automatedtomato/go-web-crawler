@@ -25,7 +25,7 @@ A highly performant concurrent web crawler built with Go, designed to efficientl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/go-concurrent-crawler.git
+git clone https://github.com/automatedtomato/go-concurrent-crawler.git
 cd go-concurrent-crawler
 
 # Install dependencies
